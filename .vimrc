@@ -29,6 +29,7 @@ set showmatch
 set bs=indent,eol,start
 "set laststatus=2
 set notermguicolors "for mosh
+set clipboard=unnamed
 
 if has("syntax")
   syntax on
